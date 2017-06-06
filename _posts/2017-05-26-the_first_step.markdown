@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  **The First Step**
-date:   2017-05-26 18:11:04 +0000
+title:  "The First Step"
+date:   2017-05-26 14:11:05 -0400
 ---
 
 Taking the first step of any journey can be intimidating and scary. This past weekend while attending a friend's graduation for Fordham I was able to hear a particularly poignant speech by Chuck Schumer. To summarize, Senator Schumer's advice was: Go for it! The world we live in today can seem like a black hole of uncertainty. The trick is to embrace this uncertainty and see the unlimited opportunities and possibilities that it provides. 
